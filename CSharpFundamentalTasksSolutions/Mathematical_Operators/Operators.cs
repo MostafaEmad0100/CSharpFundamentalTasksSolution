@@ -9,6 +9,7 @@ namespace CSharpFundamentalTasksSolutions.Mathematical_Operators
     class Operators
     {
 
+
         #region 2.1.1
         public void Sum_TwoNumbers()
         {
@@ -174,6 +175,7 @@ namespace CSharpFundamentalTasksSolutions.Mathematical_Operators
             Console.WriteLine("Avergae = {0} ", average);
         }
         #endregion 
+
 
 
     }
