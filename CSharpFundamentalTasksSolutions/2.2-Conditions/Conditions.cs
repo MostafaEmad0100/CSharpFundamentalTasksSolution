@@ -257,11 +257,11 @@ namespace CSharpFundamentalTasksSolutions.Conditions
 
             //Get equation paramter;
             Console.Write("Input the value of a : ");
-           double a = Convert.ToDouble(Console.ReadLine());
+            double a = Convert.ToDouble(Console.ReadLine());
             Console.Write("Input the value of b : ");
-           double b = Convert.ToDouble(Console.ReadLine());
+            double b = Convert.ToDouble(Console.ReadLine());
             Console.Write("Input the value of c : ");
-           double c = Convert.ToDouble(Console.ReadLine());
+            double c = Convert.ToDouble(Console.ReadLine());
             //Calculate d 
             d = b * b - 4 * a * c;
             if (d == 0)
@@ -275,10 +275,8 @@ namespace CSharpFundamentalTasksSolutions.Conditions
             else if (d > 0)
             {
                 Console.Write("Both roots are real and diff-2\n");
-
                 x1 = (-b + Math.Sqrt(d)) / (2 * a);
                 x2 = (-b - Math.Sqrt(d)) / (2 * a);
-
                 Console.Write("First  Root Root1= {0}\n", x1);
                 Console.Write("Second Root root2= {0}\n", x2);
             }

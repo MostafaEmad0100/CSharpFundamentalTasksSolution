@@ -43,8 +43,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Conditions\Conditions.cs" />
-    <Compile Include="Mathematical_Operators\Operators.cs" />
+    <Compile Include="2.2-Conditions\Conditions.cs" />
+    <Compile Include="2.3-Loops\Loops.cs" />
+    <Compile Include="2.1-Mathematical_Operators\Operators.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
