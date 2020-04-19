@@ -44,6 +44,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="2.2-Conditions\Conditions.cs" />
+    <Compile Include="2.4 - Array\ArrayTasks.cs" />
     <Compile Include="2.3-Loops\Loops.cs" />
     <Compile Include="2.1-Mathematical_Operators\Operators.cs" />
     <Compile Include="Program.cs" />
