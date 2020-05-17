@@ -47,6 +47,8 @@
     <Compile Include="2.4 - Array\ArrayTasks.cs" />
     <Compile Include="2.3-Loops\Loops.cs" />
     <Compile Include="2.1-Mathematical_Operators\Operators.cs" />
+    <Compile Include="2.5 -Strings\StringsTasks.cs" />
+    <Compile Include="Dates\DatesTasks.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
